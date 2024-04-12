@@ -20,8 +20,8 @@ export default function App() {
             <View style={[styles.body, { backgroundColor: "blue" }]}></View>
             <View style={[styles.body, { backgroundColor: "#9370DB" }]}></View>
             <View style={[styles.body, { backgroundColor: "purple" }]}></View>
-            <View style={[styles.body, { backgroundColor: "#E6E6FA" }]}></View> 
             <View style={[styles.body, { backgroundColor: "#E6E6FA" }]}></View>
+            <View style={[styles.body, { backgroundColor: "#FF00FF" }]}></View>
             <View style={[styles.body, { backgroundColor: "pink" }]}></View>
           </View>
           <View style={styles.footer} />
